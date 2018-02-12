@@ -1,10 +1,9 @@
-# ![JIGSAW.xyz](BackEnd/public/images/JigsawLogo.png "made you look")
+# Movie Night
 
-## Welcome to Movie Night at Jigsaw.xyz
-Thanks for applying - we're excited to see you! Without further ado, here's today's challenge. Get stuck in and enjoy yourselves.
+This was a tech test set by Jigsaw. I am going to try and complete these user stories and get better with using React.
 
+### “Roads? Where we're going we don't need roads.” - Dr. Emmet Brown Ph.D.
 
-### “Roads?  Where we're going we don't need roads.” - Dr. Emmet Brown Ph.D. 
 So what do we want you to do? Here are some User Stories to get you started:
 
 ```
@@ -55,21 +54,21 @@ So I can add new films to my Top 5
 Dynamically update my rankings
 ```
 
-
 ### "That’ll do, pig, that’ll do" - Arthur Hoggett, Farmer
-Our pre-made stack in this repo is React, Express and MongoDb. The repo is split into 2 folders, front_end for the client side app and BackEnd for the server side.  
 
-Clone it, have a look around, run ```npm i``` in both folders and get building safe in the knowledge that the config is done.  
+Our pre-made stack in this repo is React, Express and MongoDb. The repo is split into 2 folders, front_end for the client side app and BackEnd for the server side.
+
+Clone it, have a look around, run `npm i` in both folders and get building safe in the knowledge that the config is done.
 
 Feel free to explore your Javascript imagination but don't get bogged down trying to implement a package... we wanna see your code.
 
-
 ### "Help me, Obi-Wan Kenobi. You're my only hope." - Leia Organa, Princess.
+
 [This Mystical API](https://www.themoviedb.org/documentation/api) will help you with finding all the info you could ever need about movies. It's not actually mystical.. thanks to themoviedb.org for building it! The config for the API is [here](./front-end/src/config.json)
 
+### “I’m having an old friend for dinner” - Dr. Hannibal Lectre Ph.D.
 
-### “I’m having an old friend for dinner” - Dr. Hannibal Lectre Ph.D. 
-So let's talk persistence... For this challenge, the client has asked that the database table follow a particular schema so that it can be integrated into a further set out 'Top 5' style lists.  
+So let's talk persistence... For this challenge, the client has asked that the database table follow a particular schema so that it can be integrated into a further set out 'Top 5' style lists.
 
 The schema that you will need to follow for persisting the data is:
 
@@ -86,13 +85,13 @@ The schema that you will need to follow for persisting the data is:
 ```
 
 ### "Just keep swimming" - Dori, Fish.
+
 On that note, what are we looking for...
-- Well crafted, well tested code
-- Clean, object oriented design
-- How you approach the problem?
-- How do you interact with your pair?
-- Can you push the boundaries of your knowledge?
-- How do you deliver to a brief within a short time window?
-- Are you having fun?
 
-
+* Well crafted, well tested code
+* Clean, object oriented design
+* How you approach the problem?
+* How do you interact with your pair?
+* Can you push the boundaries of your knowledge?
+* How do you deliver to a brief within a short time window?
+* Are you having fun?
